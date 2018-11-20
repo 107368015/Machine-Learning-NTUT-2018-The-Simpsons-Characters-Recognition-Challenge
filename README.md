@@ -255,6 +255,10 @@ for y in y_pred:
 print(y_pred)
 np.savetxt('C:/Users/Shirley/Desktop/data/testY.csv', y_pred, delimiter = ',')
 
+# 人物名稱
 ![github](https://github.com/107368015/Machine-Learning-NTUT-2018-The-Simpsons-Characters-Recognition-Challenge/blob/master/name.jpg "github") <br>
+# model
+![github](https://github.com/107368015/Machine-Learning-NTUT-2018-The-Simpsons-Characters-Recognition-Challenge/blob/master/model.jpg "github") <br>
 
-
+# 訓練過程
+![github](https://github.com/107368015/Machine-Learning-NTUT-2018-The-Simpsons-Characters-Recognition-Challenge/blob/master/train.jpg "github") <br>
