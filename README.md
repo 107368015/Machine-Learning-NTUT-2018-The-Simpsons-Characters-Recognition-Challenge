@@ -262,3 +262,11 @@ np.savetxt('C:/Users/Shirley/Desktop/data/testY.csv', y_pred, delimiter = ',')
 
 # 訓練過程
 ![github](https://github.com/107368015/Machine-Learning-NTUT-2018-The-Simpsons-Characters-Recognition-Challenge/blob/master/train.jpg "github") <br>
+
+# 分析
+1.增加訓練次數並沒有改善誤差
+        
+2.練了還是不知道哪裡有誤差，一直嘗試降低誤差值
+
+3.增加model層數，就能得到較好的輸出
+
